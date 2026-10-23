@@ -1,6 +1,6 @@
 ﻿# Sokoban privacy policy
 
-Public privacy policy for **Sokoban - Over 3000+ hard puzzles** by Indie Apps.
+Public privacy policy for **Sokoban: 3000+ Puzzles** by Indie Apps.
 
 - Live page: https://kqhuy04.github.io/sokoban-privacy-policy/
 - Direct page: https://kqhuy04.github.io/sokoban-privacy-policy/privacy-policy.html
